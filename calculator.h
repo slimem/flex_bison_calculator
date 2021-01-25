@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 #define YY_DECL int yylex()
+#include "calculator.tab.h"
 
 %}
 
